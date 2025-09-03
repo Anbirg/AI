@@ -7,7 +7,7 @@
 
 ## 🔬 Проекти
 
-### 1. Аналіз даних продажів
+### 1. Binary images classification using CNN
 - 📂 [Переглянути проект](Deep_Learning_Final_Project.ipynb)
 - Використано: `Python`, `pandas`,  `numpy`, `matplotlib`, `sklearn`, `seaborn`,  `PyTorch.`
 - Маємо набір згенерованих зображень. Деякі з згенерованих зображень містять
@@ -16,7 +16,7 @@
 камеру, тощо. Це завдання є kaggle-подібним викликом для навчання
 найкращої можливої моделі для класифікації бінарних зображень.
 
-### 2. Класифікація текстів (NLP)
+### 2.Text representation and classification (NLP)
 - 📂 [Переглянути проект](SarcasmDetection.ipynb)
 - Використано: `Python`, `json`,  `numpy`, `pandas`, `sklearn`, `seaborn`,  `matplotlib.`
 - Результат: Побудувано модель, яка зможе класифікувати заголовки новин на саркастичні та не саркастичні.
@@ -29,7 +29,7 @@
 
 ---
 
-## 📜 Сертифікати
+## 📜 Деякі сертифікати
 
 - [DataCamp – Machine Learning](certificates/DataCamp_ML.pdf)  
 - [Coursera – Python for Data Science](certificates/Coursera_Python.pdf)  
@@ -38,6 +38,5 @@
 ---
 
 ## 📫 Контакти
-- ✉️ Email: your.email@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- ✉️ Email: anna.st4mikova@gmail.com  
+
