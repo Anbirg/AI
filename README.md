@@ -22,18 +22,14 @@
 - Результат: Побудувано модель, яка зможе класифікувати заголовки новин на саркастичні та не саркастичні.
 
 
-### 3. Deep Learning (CNN для розпізнавання зображень)
-- 📂 [Переглянути проект](projects/project3/)
-- Використано: `PyTorch`, `CNN`
-- Результат: модель з точністю 92% для розпізнавання зображень.
 
 ---
 
 ## 📜 Деякі сертифікати
 
-- [DataCamp – Machine Learning](certificates/DataCamp_ML.pdf)  
-- [Coursera – Python for Data Science](certificates/Coursera_Python.pdf)  
-- [DeepLearning.AI – Neural Networks and Deep Learning](certificates/DeepLearningAI_NN.pdf)  
+- [DataCamp – Introduction to DeepLearning with PyTorch ](certificate1.pdf)  
+- [DataCamp – DeepLearning for Images with PyTorch](certificate.pdf.pdf)  
+- [DataCamp – Intermediate R](certificate-18.pdf.pdf)  
 
 ---
 
