@@ -1,38 +1,45 @@
+
 # 👩‍💻 Data Science Portfolio
 
-Вітаю! Мене звати Анна, я закінчила спеціальність **«Математика»** та розвиваюсь у сфері **Data Science**.  
-У цьому репозиторії зібрані мої проекти та сертифікати, які підтверджують знання.
+Hello! My name is **Anna Stoliar**, I hold a degree in **Mathematics** and I’m developing my career in **Data Science**.
+This repository contains my projects and certificates that demonstrate my technical skills and learning progress.
 
 ---
 
-## 🔬 Проекти
+## 🔬 Projects
 
-### 1. Binary images classification using CNN
-- 📂 [Переглянути проект](Deep_Learning_Final_Project.ipynb)
-- Використано: `Python`, `pandas`,  `numpy`, `matplotlib`, `sklearn`, `seaborn`,  `PyTorch.`
-- Маємо набір згенерованих зображень. Деякі з згенерованих зображень містять
-різні види артефактів, які включають, але не обмежуються текстом, руками,
-пальцями, шматочками масок, татуюваннями, очима, які не дивляться на
-камеру, тощо. Це завдання є kaggle-подібним викликом для навчання
-найкращої можливої моделі для класифікації бінарних зображень.
+### 1. Binary Image Classification using CNN
 
-### 2.Text representation and classification (NLP)
-- 📂 [Переглянути проект](SarcasmDetection.ipynb)
-- Використано: `Python`, `json`,  `numpy`, `pandas`, `sklearn`, `seaborn`,  `matplotlib.`
-- Результат: Побудувано модель, яка зможе класифікувати заголовки новин на саркастичні та не саркастичні.
-
-
+* 📂 [View project](Deep_Learning_Final_Project.ipynb)
+* **Tools:** `Python`, `pandas`, `numpy`, `matplotlib`, `sklearn`, `seaborn`, `PyTorch`
+* **Description:**
+  The dataset consists of synthetically generated images. Some of these contain various artifacts such as text, hands, fingers, mask fragments, tattoos, or eyes not facing the camera.
+  The goal of this project was to train and evaluate a **Convolutional Neural Network (CNN)** model capable of accurately performing binary image classification. This project is designed as a **Kaggle-style challenge** to optimize model performance and improve image recognition skills.
 
 ---
 
-## 📜 Деякі сертифікати
+### 2. Text Representation and Classification (NLP)
 
-- [DataCamp – Introduction to DeepLearning with PyTorch ](certificate1.pdf)  
-- [DataCamp – DeepLearning for Images with PyTorch](certificate.pdf.pdf)  
-- [DataCamp – Intermediate R](certificate-18.pdf.pdf)  
+* 📂 [View project](SarcasmDetection.ipynb)
+* **Tools:** `Python`, `json`, `numpy`, `pandas`, `sklearn`, `seaborn`, `matplotlib`
+* **Description:**
+  This project focuses on detecting **sarcasm in news headlines**.
+  I built a text classification pipeline that vectorizes textual data, trains a machine learning model, and classifies headlines as either *sarcastic* or *non-sarcastic*. The work demonstrates skills in **natural language processing**, **feature engineering**, and **model evaluation**.
 
 ---
 
-## 📫 Контакти
-- ✉️ Email: anna.st4mikova@gmail.com  
+## 📜 Certificates
 
+* [DataCamp – Introduction to Deep Learning with PyTorch](certificate1.pdf)
+* [DataCamp – Deep Learning for Images with PyTorch](certificate.pdf.pdf)
+* [DataCamp – Intermediate R](certificate-18.pdf.pdf)
+
+---
+
+## 📫 Contact
+
+* ✉️ Email: **[anna.st4mikova@gmail.com](mailto:anna.st4mikova@gmail.com)**
+
+---
+
+Хочешь, я сделаю короткую версию (более лаконичную, для быстрого чтения) или наоборот — чуть более “резюме-подобную” (с акцентом на навыки и цели)?
