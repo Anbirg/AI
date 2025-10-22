@@ -30,7 +30,7 @@ This repository contains my projects and certificates that demonstrate my techni
 
 ### 3.Bank FAQ Chatbot (NLP)
 • 📂 [View project]](_FAQ_Bot.ipynyb_)
-• Tools: Python, pandas, sklearn, nltk, json
+• Tools: `pandas`, `sentence_transformers`, `gradio`, `os`, `torch`
 • Description:
 This project implements a chatbot designed for a banking environment to automate responses to frequently asked customer questions.
 The bot uses natural language processing techniques to understand user queries and provide accurate answers to common banking-related topics such as account information, transactions, and services.
@@ -51,6 +51,4 @@ It demonstrates skills in text preprocessing, intent recognition, and conversati
 
 * ✉️ Email: **[anna.st4mikova@gmail.com](mailto:anna.st4mikova@gmail.com)**
 
----
 
-Хочешь, я сделаю короткую версию (более лаконичную, для быстрого чтения) или наоборот — чуть более “резюме-подобную” (с акцентом на навыки и цели)?
