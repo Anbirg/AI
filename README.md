@@ -28,6 +28,11 @@ This repository contains my projects and certificates that demonstrate my techni
 
 ---
 
+### 3. Text Representation and Classification (NLP)
+
+
+---
+
 ## 📜 Certificates
 
 * [DataCamp – Introduction to Deep Learning with PyTorch](certificate1.pdf)
