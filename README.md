@@ -40,6 +40,7 @@ It demonstrates skills in **text preprocessing, intent recognition, and conversa
 ---
 
 ## 📜 Certificates
+Here are some certificates for completed courses.
 
 * [DataCamp – Introduction to Deep Learning with PyTorch](certificate1.pdf)
 * [DataCamp – Deep Learning for Images with PyTorch](certificate.pdf.pdf)
