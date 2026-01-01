@@ -29,7 +29,7 @@ This repository contains my projects and certificates that demonstrate my techni
 ---
 
 ### 3.Bank FAQ Chatbot (NLP)
-* 📂 [View project]](_FAQ_Bot_.ipynyb_)
+* 📂 [View project](_FAQ_Bot_.ipynyb_)
 * **Tools:** `pandas`, `sentence_transformers`, `gradio`, `os`, `torch`
 * **Description:**
 This project implements a chatbot designed for a banking environment to automate responses to frequently asked customer questions.
